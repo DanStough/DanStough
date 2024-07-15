@@ -1,6 +1,5 @@
 ### Dan's GitHub Profile
 
-I'm a Senior Engineer at @HashiCorp working on [Consul](https://github.com/hashicorp/consul). 
 I do a lot of development in Go, but I'm familiar with Javascript, Node, React, and Python.
 Like most devs, I've also got Rust on my bucket list.
 
